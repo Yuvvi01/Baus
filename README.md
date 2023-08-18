@@ -23,6 +23,6 @@ Activation
 
 Once BAUS is deployed, you can activate it using the following command:
 
-    ```bash
+    
     python3 pinaka.py -u <url> -w <wordlist> -m HEAD -t 100
 Replace <url> with your target domain and <wordlist> with the path to your wordlist file. You can also adjust the HTTP method (-m) and the number of threads (-t) according to your preferences.
