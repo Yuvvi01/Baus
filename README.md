@@ -25,6 +25,6 @@ To get started with BAUS, follow these deployment steps:
 
 Once BAUS is deployed, you can activate it using the following command:
 
-   ```bash 
+     ```bash 
           python3 pinaka.py -u <url> -w <wordlist> -m HEAD -t 100
 
