@@ -21,7 +21,7 @@ print(color("""
                 ██████╦╝██║  ██║╚██████╔╝███████║
                 ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
                                                                          
-		                                                             "By: Yuvraj Singh" """,(WHITE)))
+		                                                             "By: Yuvraj" """,(WHITE)))
 print(color("		        [~]",(WHITE)) + color(" The Best Tools For Brute Forcing Subdomain!!!",(CYAN)))
 print(color("		        [~]",(WHITE)) + color(" Usage: python3 tgos.py -u <url> -w <wordlist> -m HEAD -t 100",(CYAN)))
 print(color("				--------------",(CYAN))+color("Social Media",(WHITE))+color("---------------",(CYAN)))
