@@ -22,6 +22,7 @@ To get started with BAUS, follow these deployment steps:
 
    
 2. Activation
+
 Once BAUS is deployed, you can activate it using the following command:
 
     
