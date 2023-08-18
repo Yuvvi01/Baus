@@ -17,7 +17,7 @@ To get started with BAUS, follow these deployment steps:
    ```bash
    sudo apt install python3
    git clone https://github.com/Yuvvi01/Baus
-   cd BAUS
+   cd baus
    pip install -r requirements.txt
 
    
