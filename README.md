@@ -2,8 +2,8 @@
 
 📌 Deployment :
   sudo apt install python3
-  git clone https://github.com/SegmaSec/TGOS
-  cd TGOS
+  git clone https://github.com/Yuvvi01/Baus
+  cd BAUS
   pip install -r requirements.txt
 📌 Activation :
 python3 tgos.py -u <url> -w <wordlist> -m HEAD -t 100
