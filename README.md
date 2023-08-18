@@ -1,4 +1,4 @@
-# BAUS - Elite Subdomain Brute-Forcing Arsenal
+# BAUS - Elite Subdomain Brute-Forcing Tool
 Welcome to BAUS - the powerful subdomain brute-forcing tool built with Python. BAUS, also known as **Haruma**, is your ultimate companion for meticulously exploring target domains by systematically testing a wide range of subdomain combinations curated from a wordlist. With its adaptable configuration options, including support for different HTTP methods and parallel threading, Haruma empowers cybersecurity experts and ethical hackers to swiftly and securely identify potential subdomains, bolstering web security and refining domain reconnaissance strategies.
 
 ## Features
