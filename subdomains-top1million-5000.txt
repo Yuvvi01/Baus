@@ -1,4 +1,3 @@
-segma
 www
 mail
 ftp
