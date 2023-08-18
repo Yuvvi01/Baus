@@ -20,6 +20,7 @@ To get started with BAUS, follow these deployment steps:
    cd BAUS
    pip install -r requirements.txt
 Activation
+
 Once BAUS is deployed, you can activate it using the following command:
 
     ```bash
