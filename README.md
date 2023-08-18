@@ -12,14 +12,16 @@ Welcome to BAUS - the powerful subdomain brute-forcing tool built with Python. B
 
 To get started with BAUS, follow these deployment steps:
 
-1. Install Python 3:
+1. Installation:
 
    ```bash
    sudo apt install python3
    git clone https://github.com/Yuvvi01/Baus
    cd BAUS
    pip install -r requirements.txt
-Activation
+
+   
+2. Activation
 
 Once BAUS is deployed, you can activate it using the following command:
 
