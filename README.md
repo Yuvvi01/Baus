@@ -1,9 +1,30 @@
-"Presenting the mighty "BAUS" - an elite subdomain brute-forcing arsenal. Forged in Python, Haruma cunningly probes a chosen domain by executing a massive repertoire of subdomain permutations, extracted from a wordlist. Embracing supreme adaptability, from HTTP tactics to parallel threading prowess, Haruma bestows cybersecurity maestros and white-hat wizards with the ability to swiftly and safely unearth potential subdomains. Unleash Haruma's prowess to reinforce your web fortifications and elevate your domain reconnaissance expeditions."
+# BAUS - Elite Subdomain Brute-Forcing Arsenal
 
-📌 Deployment :
-  sudo apt install python3
-  git clone https://github.com/Yuvvi01/Baus
-  cd BAUS
-  pip install -r requirements.txt
-📌 Activation :
-python3 tgos.py -u <url> -w <wordlist> -m HEAD -t 100
+![BAUS Logo](baus_logo.png) <!-- You can add a logo here if available -->
+
+Welcome to BAUS - the powerful subdomain brute-forcing tool built with Python. BAUS, also known as **Haruma**, is your ultimate companion for meticulously exploring target domains by systematically testing a wide range of subdomain combinations curated from a wordlist. With its adaptable configuration options, including support for different HTTP methods and parallel threading, Haruma empowers cybersecurity experts and ethical hackers to swiftly and securely identify potential subdomains, bolstering web security and refining domain reconnaissance strategies.
+
+## Features
+
+- Python-based subdomain brute-forcing tool
+- Exhaustive subdomain permutation testing from a wordlist
+- Adaptable HTTP methods for customization
+- Parallel threading for optimized performance
+
+## Deployment
+
+To get started with BAUS, follow these deployment steps:
+
+1. Install Python 3:
+
+   ```bash
+   sudo apt install python3
+   git clone https://github.com/Yuvvi01/Baus
+   cd BAUS
+   pip install -r requirements.txt
+Activation
+Once BAUS is deployed, you can activate it using the following command:
+
+    ```bash
+    python3 pinaka.py -u <url> -w <wordlist> -m HEAD -t 100
+Replace <url> with your target domain and <wordlist> with the path to your wordlist file. You can also adjust the HTTP method (-m) and the number of threads (-t) according to your preferences.
